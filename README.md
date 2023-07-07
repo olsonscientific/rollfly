@@ -1,4 +1,4 @@
 # rollfly
-Olson Scientific Roll Fly hybrid drone framework
+Olson Scientific's Thrust Vectored Roll / Fly dual modality drone framework
 
-Full hardware and software documentation and code coming soon.
+Full open source hardware and software documentation and code coming soon.
